@@ -4,7 +4,7 @@
   "bboxMode": 0,
   "bbox_bottom": 199,
   "bbox_left": 0,
-  "bbox_right": 238,
+  "bbox_right": 198,
   "bbox_top": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -1961,7 +1961,7 @@
     ],
     "visibleRange": null,
     "volume": 1,
-    "xorigin": 80,
+    "xorigin": 40,
     "yorigin": 243
   },
   "swatchColours": null,
@@ -1972,5 +1972,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 240
+  "width": 200
 }
